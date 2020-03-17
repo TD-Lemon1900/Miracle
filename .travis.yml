@@ -5,4 +5,4 @@ python:
     - "3.8"
 
 script
-    - pytest unit4/test_1/
+    - pytest unit4/
